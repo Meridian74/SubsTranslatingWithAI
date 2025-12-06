@@ -1,0 +1,5 @@
+{
+  "name": "AI Asszisztens Hub",
+  "description": "Egy központosított felület különböző AI alapú feladatok elvégzésére kártyák és modális ablakok segítségével.",
+  "requestFramePermissions": []
+}
